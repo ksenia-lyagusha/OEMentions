@@ -64,7 +64,7 @@ public class OEMentions: NSObject, UITextViewDelegate, UITableViewDelegate, UITa
     var nameFont = UIFont.boldSystemFont(ofSize: 14.0)
     
     // Color if the rest of the UITextView text
-    var notMentionColor = UIColor.label
+    var notMentionColor = UIColor.black
     
     
     // OEMention Delegate
